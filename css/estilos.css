@@ -1,0 +1,14 @@
+h2{
+    color: red;
+}
+button{
+    background: #3D0000;
+    color:aliceblue:
+}
+button:hover{
+    background: rgb(83, 116, 116);
+    color: bisque;
+}
+button:active{
+    background: brown;
+}
